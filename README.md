@@ -1,6 +1,6 @@
 # hello-world
-A place where brilliance is stored 
-I ask this question often, yet it is hard to answer. Who am I? What makes me different? 
-To start I have a pet turtle who captures my true personality. Unbothered. I like to be alone, but that's not the version of me that people see. I love bold colors and being unapologetically me. 
-I care about others and what's important in their lives. 
-I believe in challenging myself and that I am in control of my own happiness. 
+Hi there, I am a news reporter who views data as a tool to tell more meaningful stories. 
+
+In each repository, I aim to explore datasets and find the stories that lie beneath the surface. In engaging with my code, I hope you consider what data is needed to shed light on an issue facing you or your community. 
+
+It all starts with a question and desire to look for what's there. 
